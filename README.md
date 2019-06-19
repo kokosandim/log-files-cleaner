@@ -1,4 +1,3 @@
-# logFilesCleaner
 ## Linux/Windows log files cleaner
 Terminal command example:
 ```python 
